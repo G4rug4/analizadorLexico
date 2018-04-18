@@ -1,7 +1,10 @@
-Analizador Lexico.
+Analizador Lexico con ply de Python
+=======================
 
-Integrantes.
+Ciencias de la Computación 3 - Universidad Distrital
 
-Yulean Rios.
-Edgar Parada.
-Rodrigo Álvarez.
+## _Integrantes_ ##
+
+- Yulean Rios
+- Edgar Parada
+- Rodrigo Álvarez
