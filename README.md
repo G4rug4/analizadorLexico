@@ -1,6 +1,6 @@
-Analizador lexico.
+Analizador Lexico.
 
-Inetegrantes.
+Integrantes.
 
 Yulean Rios.
 Edgar Parada.
